@@ -1,0 +1,5 @@
+#ignore wp-config.php and .htaccess
+wp-config.php 
+.htaccess
+
+
